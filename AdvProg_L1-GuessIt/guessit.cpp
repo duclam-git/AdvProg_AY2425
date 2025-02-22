@@ -57,7 +57,7 @@ string getAnswer(int number, int randomNumber) {
         answer = "Your number is higher.";
     }
     else {
-        answer = "Your number is lower."
+        answer = "Your number is lower.";
         }
 
     return answer;
